@@ -1,0 +1,42 @@
+.total{
+    background:rgb(245, 245, 152);
+    height: 100vh;   
+}
+ul{
+    float: right;
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+}
+li{
+    list-style: none;
+    color: black;
+}
+a{
+   padding: 20px;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+    cursor: pointer;
+}
+a:hover{
+    color:red;
+    background: yellow;
+}
+.re{
+    text-align: center; 
+}
+.nav{
+    width: 1500px;
+    height: 20px;
+    cursor: pointer;
+}
+.sk{
+    margin-left: 600px;
+    font-size: 35px;
+}
+.im img{
+    width: 900px;
+    margin-left: 200px;
+}

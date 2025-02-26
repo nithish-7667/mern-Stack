@@ -1,0 +1,36 @@
+.Container
+{
+    background-color:  blue ;
+    padding-top: 10px;
+    height:600px;
+}
+.one
+{
+    background-color: brown;
+    text-align: center;
+    margin:10px;
+    height: 30px;
+   border: 2px solid black ;
+   border-radius: 100px;
+   width:100px;
+   margin-left: 700px;
+   
+}
+.two
+{
+    background-color: violet;
+    text-align: center;no
+    margin:10px;
+    height: 30px;
+   border: 2px solid black ;
+   border-radius: 100px;
+}
+.three
+{
+    background-color: rgb(64, 164, 134);
+    text-align: center;
+    margin:10px;
+    height: 30px;
+   border: 2px solid black ;
+   border-radius: 100px;
+}
